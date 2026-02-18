@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 107.605 89.4829" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Success">
+<path id="Vector" d="M106.605 53.8429C106.605 72.974 82.9645 88.4829 53.8025 88.4829C24.6405 88.4829 1.00005 72.974 1.00005 53.8429C1.00005 52.3846 1 34.8265 1 34.8265C1 34.8265 79.6659 34.8264 106.605 34.8264C106.605 34.8264 106.605 34.7118 106.605 53.8429Z" fill="var(--fill-0, #419454)" stroke="var(--stroke-0, black)" stroke-width="2"/>
+<path id="Vector_2" d="M1 34.8264L1.00005 53.8429C1.00005 64.0146 7.68301 73.1624 18.3256 79.4996V34.8264L1 34.8264Z" fill="var(--fill-0, black)" stroke="var(--stroke-0, black)" stroke-width="2"/>
+<ellipse id="Ellipse" cx="53.7704" cy="35.6943" rx="52.7704" ry="34.6943" fill="var(--fill-0, #90D19F)" stroke="var(--stroke-0, black)" stroke-width="2"/>
+<path id="Vector_3" d="M19.7242 41.5356V33.7962L43.9918 46.7501V56.1731L19.7242 41.5356Z" fill="var(--fill-0, black)" stroke="var(--stroke-0, black)" stroke-width="2" stroke-linejoin="round"/>
+<path id="Vector_4" d="M87.5065 29.7581L43.9922 56.1729L43.992 45.4613L87.5065 21.4686V29.7581Z" fill="var(--fill-0, #57C26E)" stroke="var(--stroke-0, black)" stroke-width="2" stroke-linejoin="round"/>
+<path id="Vector_5" d="M30.3999 27.7141C27.6321 29.3508 20.402 33.4031 19.7242 33.8095L43.7868 47.1854L87.5061 21.4495L77.5083 15.3541L43.7868 35.8413L30.3999 27.7141Z" fill="var(--fill-0, #DAF0DF)" stroke="var(--stroke-0, black)" stroke-width="2" stroke-linejoin="round"/>
+</g>
+</svg>
